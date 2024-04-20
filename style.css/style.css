@@ -86,7 +86,7 @@ main h1 {
     font-family: var(--fonte-h1);
     text-decoration: none;
     color: white;
-    font-weight: bold;
+    font-weight: bol;
     background-color: var(--cor3);
     border-width: 10px;
     border-style: solid;
